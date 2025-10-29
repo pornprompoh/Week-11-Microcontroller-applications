@@ -1,2 +1,2 @@
-idf_component_register(SRCS "lab11-1.c"
+idf_component_register(SRCS "lab11-final.c"
                     INCLUDE_DIRS ".")
